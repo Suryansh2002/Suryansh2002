@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Python, Mongodb, Redis.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My code works.
--->
