@@ -1,7 +1,7 @@
 <h1> Hi 👋, I am Suryansh Sharma </h1>
 
 <h3>
-  Me, An Asprining Developer,<br>
+  Me, An Aspiring Developer,<br>
   Fingers tap out words unseen,<br>
   Traveller on a digital road,<br>
   This spirit, always keen.<br>
